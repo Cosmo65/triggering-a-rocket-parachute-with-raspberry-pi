@@ -1,2 +1,4 @@
 # triggering-a-rocket-parachute-with-raspberry-pi
-O objetivo desse programa é simular o acionamento do paraquedas de um foguete com a utilização de um Raspberry Pi e Arduino. O raspberry Pi
+
+The objective of this program is to simulate the activation of a rocket's parachute with the use of a Raspberry Pi and Arduino. Raspberry Pi helps with data processing thanks to Python. The arduino performs a great service when it comes to transferring the sensed data
+for processing them.
